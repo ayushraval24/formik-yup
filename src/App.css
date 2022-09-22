@@ -45,7 +45,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+    }
 
   .form{
     width: 400px;
@@ -72,7 +72,6 @@
   }
 
   /* .submit-button: */
-
 
 /* FORM */
 
